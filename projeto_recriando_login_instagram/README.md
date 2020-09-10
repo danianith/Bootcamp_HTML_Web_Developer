@@ -1,8 +1,9 @@
 
 Projeto para recriar a página inicial do Instagram da DIO.
 
-
 Realizei algumas alterações e melhorias no código para melhor visualização.
+
+<a href="https://danianith.github.io/Bootcamp_HTML_Web_Developer/projeto_recriando_login_instagram/index.html">Acesse a página criada aqui</a>
 
 
 Página de login do Instagram: nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade, preparando os alunos para as aulas de jogos, nas quais será utilizado o CSS junto ao JavaScript para estilização e posicionamento.

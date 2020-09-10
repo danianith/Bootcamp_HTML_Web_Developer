@@ -1,7 +1,7 @@
 
 Neste projeto criei o site CloneFlix, uma prima distante da Netflix :)
 
-<a href="https://danianith.github.io/BootCamp_JavaScript_Game_Developer/projeto_netflix/index.html" target="_blank">Acesse a CloneFlix aqui </a>
+<a href="https://danianith.github.io/Bootcamp_HTML_Web_Developer/projeto_netflix/index.html" target="_blank">Acesse a CloneFlix aqui </a>
 
 Além da proposta do professor, adicionei modal no botão assistir para que abrisse um link na mesma página e adicionei modal no botão mais informações para que abrisse as informações sem mudar de página.
 

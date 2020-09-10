@@ -10,6 +10,8 @@ BootCamp HTML Web Developer - Básico - 12 atividades - 27 hrs.
 Aprenda a programar páginas de internet e desenvolver websites utilizando HTML, CSS e JavaScript 
 para iniciar sua trajetória profissional em desenvolvimento web front-end.
 
+<a href="https://certificates.digitalinnovation.one/66EF5AAC" target="_blank">Certificado de Conclusão do Bootcamp</a>
+
 _____________________________________________________________________________________________________________________________________________________________________
 
 
@@ -112,7 +114,9 @@ ________________________________________________________________________________
 - Propriedades de dimensões e alinhamento
     
 
-Aulas 8/8 - Básico - 6 hrs - <a href="https://certificates.digitalinnovation.one/1A9A2993" target="_blank">Certificado</a>
+Aulas 8/8 - Básico - 6 hrs - <a href="https://certificates.digitalinnovation.one/1A9A2993" target="_blank">Certificado</a><br>
+
+<a href="https://danianith.github.io/Bootcamp_HTML_Web_Developer/int_html5_css3/index.html">Acesse a página criada aqui</a>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -121,7 +125,9 @@ ________________________________________________________________________________
 Página de login do Instagram: nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade, preparando os alunos para as aulas de jogos, nas quais será utilizado o CSS junto ao JavaScript para estilização e posicionamento.
 Parte 1 - Parte 2 - Parte 3 - Parte 4
 
-Projeto 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/98451885" target="_blank">Certificado</a>
+Projeto 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/98451885" target="_blank">Certificado</a><br>
+
+<a href="https://danianith.github.io/Bootcamp_HTML_Web_Developer/projeto_recriando_login_instagram/index.html">Acesse a página criada aqui</a>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -137,8 +143,9 @@ ________________________________________________________________________________
 - Parte 2: Manipulando elementos da página
 - Certifique seu conhecimento
 
-Aulas 2/2 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/360C8400" target="_blank">Certificado</a>
+Aulas 2/2 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/360C8400" target="_blank">Certificado</a><br>
 
+<a href="https://danianith.github.io/Bootcamp_HTML_Web_Developer/intro_javascript/index.html"> Acesse a página criada aqui</a>
 _______________________________________________________________________________________________________________________________________________________________________
 
 08 - Introdução a Programação com JavaScript
@@ -150,12 +157,12 @@ Desafios 3/3 - Básico
 ______________________________________________________________________________________________________________________________________________________________________
 
 
-09 - Recriando a Interface do Netflix
+09 - Recriando a Interface do Netflix - <a href="https://danianith.github.io/Bootcamp_HTML_Web_Developer/projeto_netflix/index.html" target="_blank">Acesse Meu CloneFlix aqui</a>
 
 Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
 Parte 1 à 9.
 
-Projeto 1/1 - Avançado - 5 hrs - <a href="https://certificates.digitalinnovation.one/6F408A31" target="_blank">Certificado de Conclusão do Projeto</a>
+Projeto 1/1 - Avançado - 5 hrs - <a href="https://certificates.digitalinnovation.one/6F408A31" target="_blank">Certificado</a>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -182,7 +189,9 @@ Certifique seu conhecimento
 - Crie lista de navegação dentro de containers utilizando imagens
 Certifique seu conhecimento
 
-Aulas 6/6 - Básico - 4hrs - <a href="https://certificates.digitalinnovation.one/A79D395B" target="_blank">Certificado</a>
+Aulas 6/6 - Básico - 4hrs - <a href="https://certificates.digitalinnovation.one/A79D395B" target="_blank">Certificado</a><br>
+
+<a href="https://danianith.github.io/Bootcamp_HTML_Web_Developer/intro_bootstrap/index.html">Acesse a página criada aqui</a>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -196,11 +205,10 @@ Desafios 5/5 - Básico
 _______________________________________________________________________________________________________________________________________________________________________
 
 
-12 - Recriando o jogo da cobrinha com JavaScript
+12 - Recriando o jogo da cobrinha com JavaScript - <a href="https://danianith.github.io/Bootcamp_HTML_Web_Developer/projeto_jogo_cobrinha_js/index.html" target="_blank">Acesse meu Jogo Aqui</a>
 
 Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma simples o clássico jogo da cobrinha utilizando HTML, CSS e JavaScript.
 
-Projeto 1/1 - Básico - 2 hrs <a href"" target="_blank">Certificado</a>
-
+Projeto 1/1 - Básico - 2 hrs <a href="https://certificates.digitalinnovation.one/F1844E13" target="_blank">Certificado</a>
 
 
