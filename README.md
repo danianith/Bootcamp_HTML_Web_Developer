@@ -200,7 +200,7 @@ ________________________________________________________________________________
 
 Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma simples o clássico jogo da cobrinha utilizando HTML, CSS e JavaScript.
 
-Projeto 1/1 - Básico - 2 hrs
+Projeto 1/1 - Básico - 2 hrs <a href"" target="_blank">Certificado</a>
 
 
 
