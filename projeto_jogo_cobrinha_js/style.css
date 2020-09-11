@@ -6,3 +6,18 @@ body {
     align-items: center; /* Alinha verticalmente no meio */
     flex-direction: column; /* Muda a direção do flex para colunas */    
 }
+
+footer#rodape {
+    font-family: 'Arial', sans-serif;
+    clear: both;
+}
+
+footer#rodape p {
+    text-align: center;
+    font-size: 10pt;
+    color: #888888;
+}
+
+footer#rodape p#cr {
+    margin-bottom: -10px;
+}
