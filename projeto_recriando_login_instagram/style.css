@@ -11,7 +11,7 @@
 
 body {
     width: 100%;
-    min-height: 100vh;
+    min-height: 100%;
     background-color: rgb(243,243,243);
     margin: 0;
     padding: 0;
@@ -23,7 +23,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: start;
-    width: 60%;
+    width: 50%;
     height: 100vh;
 }
 
@@ -35,7 +35,7 @@ body {
 }
 
 .celular {
-    height: 50rem;
+    height: 100vh;
 }
 
 .instagram-continue {
@@ -114,17 +114,19 @@ body {
 }
 
 .app-download {
-    height: 3rem;
-    width: 10rem;
     background-size: cover;
 }
 
 .app-download:nth-child(1) {
     background-image: url('./img/apple-button.png');
+    height: 7vh;
+    width: 15vw;
 }
 
 .app-download:nth-child(2) {
     background-image: url('./img/googleplay-button.png');
+    height: 7vh;
+    width: 15vw;
 }
 
 /* media queries */
